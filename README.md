@@ -23,26 +23,31 @@
 
 ```bash
 pip install -r requirements.txt
-�
-Add Start Command:
-Copy code
-Bash
-python app.py
-�
-Deploy the projectWait a few moments for deployment to completeCopy your deployed project link
-�
-🔗 Endpoint
 
-Copy code
-Text
-/join?tc=<team_code>&uid1=<uid>&uid2=<uid2>&emote_id=<emote_id>
-�
-🧩 Usage
+<ul>
+  <li>Add <b>Start Command</b>:</li>
+</ul>python app.py
 
-�
-Open any browserAdd your team code, UID, and emote code in the URL to start emoteEmote codes reference:
-Copy code
+<ul>
+  <li>Deploy the project</li>
+  <li>Wait a few moments for deployment to complete</li>
+  <li>Copy your deployed project link</li>
+</ul>
+---
 
-https://0xme.github.io/ItemID2/?mode=1&q=Emote+Box%26collectionType%3AEMOTE
-�
-Enjoy using the project 🚀
+<h2 align="center">🔗 Endpoint</h2>/join?tc=<team_code>&uid1=<uid>&uid2=<uid2>&emote_id=<emote_id>
+
+
+---
+
+<h2 align="center">🧩 Usage</h2><ul>
+  <li>Open any browser</li>
+  <li>Add your <b>team code</b>, <b>UID</b>, and <b>emote code</b> in the URL to start emote</li>
+  <li>Emote codes reference:</li>
+</ul>https://0xme.github.io/ItemID2/?mode=1&q=Emote+Box%26collectionType%3AEMOTE
+
+
+---
+
+<p align="center"><b>Enjoy using the project 🚀</b></p>
+```
